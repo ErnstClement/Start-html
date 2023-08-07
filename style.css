@@ -1,1 +1,19 @@
-fd
+body{
+    background-color: grey;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    
+    margin: auto;
+
+}
+header,img{
+    background-color: white;
+    width: 60%;
+    margin: auto;
+}
+header,h1{
+    text-align: center;
+}
